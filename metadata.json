@@ -1,0 +1,6 @@
+{
+  "name": "DTC Express Cargo Movers & Packers",
+  "description": "Integrated logistics platform featuring corporate website, operations management dashboard, and secure client tracking & document portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
